@@ -234,3 +234,29 @@ User: Explain this topic using only my local files.
 
 AI: Uses local RAG and local model inference without relying on cloud AI APIs.
 
+
+```
+
+## Commercial Licensing Position
+
+Realigns Inc may offer commercial licenses for Realigns-developed AI products, fine-tuned model packages, business alignment layers, RAG intelligence systems, desktop/server applications, deployment workflows, and related integrations.
+
+Where the applicable upstream model license permits commercial use and derivative distribution, Realigns may commercialize its modified, fine-tuned, or integrated version under Realigns branding, subject to the original model license terms.
+
+Realigns does not claim ownership of the original Qwen foundation model. The original foundation model remains the property of its respective upstream creators.
+
+Realigns commercial licensing applies to the Realigns-developed work, including:
+
+- Fine-tuning and customization workflow
+- Business instruction alignment
+- Identity and response behavior alignment
+- RAG intelligence architecture
+- Local deployment system
+- GGUF conversion and runtime integration
+- Application layer and user interface
+- Documentation, prompts, and business knowledge design
+- Product packaging, installer, and support services
+
+Before commercial distribution, Realigns verifies the applicable upstream license for the specific base model version used, including any attribution, notice, redistribution, trademark, or model-specific requirements.
+
+Realigns Inc respects upstream model creators and preserves required license notices, copyright statements, and attribution where applicable.
