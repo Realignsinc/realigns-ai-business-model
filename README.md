@@ -1,7 +1,7 @@
 # Realigns AI — Fine-Tuned Qwen Business Model
 
 Realigns AI is a business-focused AI model and intelligence system developed by **Realigns Inc.**  
-It is based on a fine-tuned Qwen open-weight model workflow, enhanced with business knowledge, local inference support, and Retrieval-Augmented Generation (RAG) architecture for more reliable, context-aware responses.
+It is based on a fine-tuned light-weight model workflow, enhanced with business knowledge, local inference support, and Retrieval-Augmented Generation (RAG) architecture for more reliable, context-aware responses.
 
 This project is designed for business productivity, document intelligence, private AI assistance, research support, and enterprise-style workflows where accuracy, privacy, and controlled output are important.
 
